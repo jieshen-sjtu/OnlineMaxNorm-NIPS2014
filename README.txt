@@ -16,8 +16,11 @@ PCP is implemented by Zhouchen Lin, see his homepage http://www.cis.pku.edu.cn/f
 If you use this code, please kindly cite our NIPS work:
 
 @inproceedings{shen2014online,
-  title={Online Optimization for Max-Norm Regularization},
-  author={Shen, Jie and Xu, Huan and Li, Ping},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2014}
+  author    = {Jie Shen and
+               Huan Xu and
+               Ping Li},
+  title     = {Online Optimization for Max-Norm Regularization},
+  booktitle = {Proceedings of the 28th Annual Conference on Neural Information Processing Systems},
+  pages     = {1718--1726},
+  year      = {2014}
 }
